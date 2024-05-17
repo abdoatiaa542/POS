@@ -1,7 +1,6 @@
 # Project Overview
 
-This project is a Point of Sale (POS) system developed using Java, Spring Boot, and Maven. The POS system is a crucial part of any retail or restaurant business as it records sales transactions and often includes features to track inventory, customer preferences, and sales reports.
-
+This project is a Point of Sale (POS) system developed using Java, Spring Boot, and Maven.
 ## Technologies Used
 
 - Java: The main programming language used for development.
